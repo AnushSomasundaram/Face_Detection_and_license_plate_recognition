@@ -1,0 +1,5 @@
+find . -name "*.DS_Store" -type f -delete
+
+copy and past the same in the directory in terminal
+
+cv.cvtColor(img_array,cv.COLOR_BGR2GRAY)
